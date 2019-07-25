@@ -1,1 +1,1 @@
-# file_copy
+## This repository is studying for secure coding in C.
